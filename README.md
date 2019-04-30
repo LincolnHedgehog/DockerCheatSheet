@@ -17,6 +17,12 @@ Check [the website](http://dockercheatsheet.painlessdocker.com).
 
 # Installation
 
+## ここにテストコメントを入力します (2019/04/30)
+
+```
+curl -sSL https://get.docker.com/ | sh
+```
+
 ## Linux
 
 ```
